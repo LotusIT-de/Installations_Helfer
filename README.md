@@ -4,7 +4,7 @@
 _______________________________________________________________________________________________
 
 
-- das SpeedTest Script ist für die kostenlose Nutzung geeignet.
+- das Installations_Helfer Script ist für die kostenlose Nutzung geeignet.
 
 - der Weiterverkauf ist nicht erlaubt, da es sich um eine kostenlose Software handelt.
 
@@ -31,7 +31,7 @@ Discord: Léon.K | #0560
 _______________________________________________________________________________________________
 
 
-- The Server helper script is suitable for free use.
+- The Installation_helper script is suitable for free use.
 
 - Reselling is not allowed as it is free software.
 
